@@ -1,4 +1,4 @@
-# El arte de la redención
+# El arte en la redención
 
 ![Musashi cover of blood](images/takezo-shinmen.jpg)
 
