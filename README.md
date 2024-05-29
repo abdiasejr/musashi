@@ -22,9 +22,9 @@ El contenido se centra en su transformación de un guerrero brutal a un individu
 - HTML5
 - CSS3
 - JavaScript
-- Google Fonts (Ubuntu Sans Mono)
+- Google Fonts ([Ubuntu Sans Mono](https://fonts.google.com/specimen/Ubuntu+Sans+Mono))
 
 ## Recursos
-- Takehiko Inoue(https://itplanning.co.jp/)
-- Ilustration(https://pm1.aminoapps.com/8119/cb8bd7a34e536c41e5b18510c3741fac67384be6r1-620-672v2_uhq.jpg)
-- Hello World!(https://github.com/abdiasejr)
+- [Takehiko Inoue](https://itplanning.co.jp/)
+- [Ilustration](https://pm1.aminoapps.com/8119/cb8bd7a34e536c41e5b18510c3741fac67384be6r1-620-672v2_uhq.jpg)
+- [Hello World!](https://github.com/abdiasejr)
