@@ -1,6 +1,6 @@
 # El arte de la redención
 
-![Musashi Praying](images/musashi.jpg)
+![Musashi cover of blood](images/takezo-shinmen.jpg)
 
 Este proyecto presenta una página web dedicada a Miyamoto Musashi, un legendario espadachín japonés, y su viaje de autodescubrimiento y redención.
 
